@@ -1,0 +1,9 @@
+osmnx
+networkx
+pandas
+matplotlib
+stable-baselines3[extra]
+gym
+numpy
+torch
+geopy
