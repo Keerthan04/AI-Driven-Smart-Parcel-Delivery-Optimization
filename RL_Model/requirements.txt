@@ -7,3 +7,9 @@ gymnasium
 numpy
 torch
 geopy
+ortools
+geopandas
+shapely
+folium
+scikit-learn
+scikit-image
